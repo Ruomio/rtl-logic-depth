@@ -1,0 +1,4 @@
+interface:
+  display_name: "RTL Logic Depth"
+  short_description: "Trace register paths and operator depth in RTL"
+  default_prompt: "Use $rtl-logic-depth to trace this signal through Release RTL to register boundaries."
